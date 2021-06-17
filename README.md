@@ -1,8 +1,9 @@
 # COMP302_TermProject
- This repository includes Term Project for COMP 302 (Software Engineering Course at Koç University)\
- Term Project was developing a game called KUVid302.\
+ This repository includes COMP 302 (Software Engineering Course at Koç University)Term Project for Fall 2020 Semester\
+ Term Project was developing a game called KUVid302.
+ This repository also includes related documents for the project. Project consisted of two phases and we did Requirements Analysis (R), Modeling (M) and Design (D) for each phases. Also, our test cases are included.
  
-Contributors:\
+Project Group:\
 Arda Tiftikçi\
 Ece Güz\
 Ekrem Yiğiter\
