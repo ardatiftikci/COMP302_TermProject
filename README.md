@@ -4,7 +4,7 @@
 Contributors:\
 Arda Tiftikçi\
 Ece Güz\
-Ekrem Yiğiter\ 
+Ekrem Yiğiter\
 Kaan Demirer\
 Kutay Eroğlu\
 Ömer Faruk Aksoy
